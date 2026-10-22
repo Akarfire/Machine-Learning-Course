@@ -1,7 +1,7 @@
 # Machine Learning Course
 Домашние задания по курсу машинного обучения.
 
-Выполненная работа: [Jupyter Notebook](Source\CodeNotebook.ipynb)
+Выполненная работа: [Jupyter Notebook](.\Source\CodeNotebook.ipynb)
 
 ---
 ### Установка
